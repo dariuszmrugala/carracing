@@ -121,3 +121,4 @@ def resetGame():
     makeTrack()
 
 makeTrack()
+pgzrun.go()

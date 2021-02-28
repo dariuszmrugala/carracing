@@ -19,9 +19,11 @@ Kliknij 'Install Now'
 ![python1](images/screenshots/2021-02-27_10h07_23.png)
 
 python się instaluje...
+
 ![python1](images/screenshots/2021-02-27_10h08_07.png)
 
 kliknij"close".
+
 ![python1](images/screenshots/2021-02-27_10h08_51.png)
 
 wpisz adres"github.com/dariuszmrugala/carracing .kliknij"code"i wybierz "Download ZIP"

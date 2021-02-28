@@ -27,20 +27,25 @@ kliknij"close".
 wpisz adres"github.com/dariuszmrugala/carracing .kliknij"code"i wybierz "Download ZIP"
 ![python1](images/screenshots/2021-02-27_10h09_18.png)
 
-otwurz Eksplalator plików, naciśnij jednocześnie Shift i prawy klawisz myszy i wybierz"Extract All...
+otwórz Eksplalator plików, naciśnij prawy klawisz myszy i wybierz"Extract All..."
 ![python1](images/screenshots/2021-02-27_10h11_21.png)
 
 zaznacz"Show extracted files when complete"i kliknij "Extract"
 ![python1](images/screenshots/2021-02-27_10h11_26.png)
 
-
+otworzy się okno z katalogiem gry do kturego musisz wejść.
+kliknij 2 razy na folder "carracing-main.
 ![python1](images/screenshots/2021-02-27_10h16_29.png)
 
+naciśnij Shift i prawy klawisz myszy, i wybierz "Open PowerShell window here"
 ![python1](images/screenshots/2021-02-27_10h16_51.png)
 
+zainstaluj pygame zero wpisując: python -m pip install pgzero
 ![python1](images/screenshots/2021-02-27_10h18_20.png)
 
+gdy python się zainstaluje wpisz:python .\pygame1.py
 ![python1](images/screenshots/2021-02-27_10h19_47.png)
 
+Go!steruj strzałkami(prawo-lewo).Jak przegrasz albo wygrasz wystarczy że naciśniesz spacje abygrać od nowa.
 ![python1](images/screenshots/2021-02-27_10h20_47.png)
 

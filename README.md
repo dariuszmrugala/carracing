@@ -26,6 +26,7 @@ kliknij"close".
 
 ![python1](images/screenshots/2021-02-27_10h08_51.png)
 
+# Uruchamianie Gry
 wpisz adres"github.com/dariuszmrugala/carracing .kliknij"code"i wybierz "Download ZIP"
 ![python1](images/screenshots/2021-02-27_10h09_18.png)
 

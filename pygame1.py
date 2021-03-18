@@ -58,10 +58,12 @@ def update():
     if gameStatus == 1:
         if keyboard.space:
             resetGame()
+            gameStatus = 0
 
     if gameStatus == 2:
         if keyboard.space:
             resetGame()
+            gameStatus = 0
 
 
 def makeTrack():
@@ -128,4 +130,4 @@ def resetGame():
     makeTrack()
 
 makeTrack()
-pgzrun.go()
+#pgzrun.go()
